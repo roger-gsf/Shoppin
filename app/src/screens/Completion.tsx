@@ -19,7 +19,7 @@ const Completion = () => {
 
                 <TouchableOpacity
                     style={styles.buttonFirstPage}
-                    onPress={navigation}>
+                    onPress={}>
                     <Text style={styles.buttonText}>Ir para a tela inicial</Text>
                 </TouchableOpacity>
 
